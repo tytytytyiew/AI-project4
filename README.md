@@ -1,1 +1,12 @@
-# AI-project4
+pip install -r requirements.txt
+python train.py
+streamlit run app.py
+python predict.py
+Приложение предсказывает шанс поступления на основе:
+GRE
+TOEFL
+CGPA
+SOP / LOR
+Рейтинг университета
+ Автор
+Барсбек Конурбаев
