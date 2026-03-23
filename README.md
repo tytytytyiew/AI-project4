@@ -1,6 +1,56 @@
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin ТВОЯ_ССЫЛКА_НА_РЕПО
-git push -u origin main
+# 🎓 University Admission Predictor
+
+Приложение для предсказания шанса поступления в университет на основе академических показателей.
+
+---
+
+## 🚀 Установка и запуск
+
+### 1. Установить зависимости
+
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Обучить модель
+
+```bash
+python train.py
+```
+
+### 3. Запустить веб-приложение
+
+```bash
+streamlit run app.py
+```
+
+### 4. Дополнительный запуск
+
+```bash
+python predict.py
+```
+
+---
+
+## 📊 Используемые параметры
+
+* GRE
+* TOEFL
+* CGPA
+* SOP
+* LOR
+* Рейтинг университета
+
+---
+
+## 💡 Описание
+
+Модель машинного обучения анализирует данные и предсказывает вероятность поступления.
+
+Интерфейс сделан на Streamlit.
+
+---
+
+## 👨‍💻 Автор
+
+Барсбек Конурбаев
