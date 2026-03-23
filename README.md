@@ -1,12 +1,6 @@
-----------pip install -r requirements.txt-------------
----------python train.py--------------
----------streamlit run app.py----------
---------- predict.py----------
----------Приложение предсказывает шанс поступления на основе:-----------
----------GRE---------
----------TOEFL---------
----------CGPA--------
-----------SOP / LOR---------
-----------Рейтинг университета--------
- --------Автор--------
----------Барсбек Конурбаев----------
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin ТВОЯ_ССЫЛКА_НА_РЕПО
+git push -u origin main
