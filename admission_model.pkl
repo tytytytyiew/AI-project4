@@ -1,0 +1,8 @@
+��]      �sklearn.linear_model._base��LinearRegression���)��}�(�
+fit_intercept���copy_X���tol�G>�����퍌n_jobs�N�positive���feature_names_in_��joblib.numpy_pickle��NumpyArrayWrapper���)��}�(�subclass��numpy��ndarray����shape�K���order��C��dtype�h�dtype����O8�����R�(K�|�NNNJ����J����K?t�b�
+allow_mmap���numpy_array_alignment_bytes�Kub���       �numpy._core.multiarray��_reconstruct����numpy��ndarray���K ��Cb���R�(KK��h�dtype����O8�����R�(K�|�NNNJ����J����K?t�b�]�(�	GRE Score��TOEFL Score��University Rating��SOP��LOR��CGPA�et�b.�b       �n_features_in_�K�coef_�h
+)��}�(hhhK��hhhh�f8�����R�(K�<�NNNJ����J����K t�bh �h!Kub������и��J�b?����`�f?ǿ�q~�x?T�O�\`��(��hK�?�Qj���?�9       �rank_�K�	singular_�h
+)��}�(hhhK��hhhh)h �h!Kub
+�������������Q�=/�o@��3ЇjN@@�(a5@sQ����'@9�&W
+Y#@�k���@�`       �
+intercept_��numpy._core.multiarray��scalar���h)C}�q+������R��_sklearn_version��1.8.0�ub.
